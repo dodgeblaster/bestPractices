@@ -4,7 +4,7 @@ There are 2 kinds of best practices:
 - Practices based on principle
 - Practices based on compatibility
 
-Principled practices have deep reasons behind them. Campatibility practices are non passionate and pragmatic.
+Principled practices have passionate highlevel reasons behind them. Campatibility practices are non passionate and pragmatic. Its important to recognize when you shouldnt be passionate about a particular best practice.
 
 
 ## List
