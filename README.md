@@ -15,6 +15,12 @@ GraphQL Best Practices:
 - [Principled GraphQL](https://principledgraphql.com/)
 
 Testing:
-- anything Bob Martin says
-- anything Martin Fowler says
-- anything Kent Beck says
+- (add Bob Martin resources)
+- (add Martin Fowler resources)
+- (add Kent Beck resources)
+
+
+General:
+- Small Feedback loops (principled)
+- Should we unit test (pragmatic way to confirm things work and have small feedback loops)
+- Many small functions vs few big functions (small is better because it makes it easier to test (pragmatic))
